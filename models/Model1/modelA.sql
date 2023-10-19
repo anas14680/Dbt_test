@@ -1,1 +1,1 @@
-select * from sample_data
+select * from DBT_Test.SAMPLE_TABLE
